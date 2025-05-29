@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>Emma's daylyblog_7</title>
+  <title>Emma's dailyblog_7</title>
   <link rel="stylesheet" href="../style.css"> <!-- 外部CSSの読み込み -->
   <style>
     body {
@@ -15,7 +15,7 @@
 </head>
 <body>
   <header>
-    <h1>Emma's daylyblog_7</h1>
+    <h1>Emma's dailyblog_7</h1>
   </header>
   <main>
     <h2>2025_05_14</h2>
