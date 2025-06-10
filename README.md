@@ -23,6 +23,14 @@
      As exacted,I packed my part-time job shift during the test periodand ended up not studying ...<br>
       so year,the result were exactly what you'd expect(lol) <br><br>
       Now I'm wondering - shoud I make up some excuse to my parents or just try keep it hidden ... touch call.Haha<br><br>
+      <br>
+      さっき投稿しようとしたブログ、途中で消えちゃった。<br>
+　　　たまに、誰かがブログに勝手にログインしている感じが最近がする。<br>
+　　　……気のせい、だといいけど。パスワードも毎回変えているし...。<br>
+　　　バイトのこと、書こうと思ったけどやっぱりやめる。<br>
+　　　　いろいろあるけど、ここでは言えないことばかり。<br>
+　　　　<br><br>
+　　　　　……ごめんね、Mちゃん。<br>
     </p>
   </main>
   <footer>
